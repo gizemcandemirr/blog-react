@@ -2,6 +2,10 @@ Merhaba, Bu projede basit blog tarzı notlarımı anlık yazıp paylaşabileceğ
 Kod yapısında Redux, Hook(useState, useEffect), Route(sayfalara url atamak için), Axios(verileri çekmek için) kullanıldı.
 Bu proje de destek aldığım yer, Udemy platformundaki İsa Acarer eğitmenin React eğitim serisi oldu.
 
+
+Proje basit olarak şunlardan oluşuyor:
+--Anasayfa da son eklenen blog yazısına göre bloglar listeleniliyor. Blogların devamını okumak için bir detay sayfasına yönlendiriliyor. Bloglar başlık, açıklama, yazar ve yayınladığı tarihten oluşuyor.Bu arada dileyen kullanıcı kategori bazlı arama yapabilir veya blog ekleme kısmından anlık blog ekleyip yayınlayabilir.
+
 Projeye Eklemek İstediklerimi Buraya Not Alıyorum Arada Güncellemek için uğrayacağım;
 
 1-)Blogların gösterildiği ksııma search butonu eklemek, burada filtreleme ile arama yapılmasını sağlamak.
